@@ -24,4 +24,4 @@
      - Language: Dart
      - Skill: Flutter
    - 본인의 역할: 독서 스케줄러 기능 구현(Firebase 연동)
-   - 상세: https://github.com/GY102912/Record_of_Reading
+   - 상세: 파일 첨부(Record_of_Reading)
