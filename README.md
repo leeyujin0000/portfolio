@@ -12,7 +12,7 @@
      - Language: Dart
      - Skill: Flutter
    - 본인의 역할: Front-end를 담당하여 모바일 앱의 전반적인 UI 설계 및 개발
-   - 상세: 파일 첨부(Laundry_Client-main)
+   - 상세: 파일 첨부(Laundry_Client)
 <br><br>
 2. <읽음의기록> - 모바일앱개발 프로젝트 (2023)
    - 독서 기록, 독서 스케줄러 등을 통해 독서습관을 길러주는 모바일 앱
